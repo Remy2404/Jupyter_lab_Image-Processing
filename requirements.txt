@@ -1,3 +1,6 @@
 opencv-python
 matplotlib
 scikit-image
+scikit-learn
+opencv-python
+pillow 
